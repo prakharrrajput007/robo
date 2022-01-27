@@ -1,0 +1,12 @@
+body {
+  font: 'Raleway', sans-serif;
+    color: rgba(0,0,0,.5);
+    text-align: center;
+    top: 15%;
+    background: linear-gradient(to right, blue,violet)
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
