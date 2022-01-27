@@ -53,4 +53,22 @@ export const robots = [
     username: 'Butcher',
     email: 'Faizu79@gmail.com'
   },
+  {
+    id: 10,
+    name: 'Khushi Gupta',
+    username: 'pdakooo',
+    email: 'khushigupta@gmail.com'
+  },
+  {
+    id: 11,
+    name: 'Tanya Maheshwari',
+    username: 'tt',
+    email: 'Tanya0Maheshwari@gmail.com'
+  },
+  {
+    id: 12,
+    name: 'Sara Mirza',
+    username: 'moti',
+    email: 'SARAMirza@gmail.com'
+  },
 ];
